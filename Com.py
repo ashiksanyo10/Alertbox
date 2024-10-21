@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Alerts user to add the Language annotation in notes when a button is clicked
 // @author       ashsanyo
-// @match        https://moderation-central.prime-video.amazon.dev/tasks/*
+// @match        https://tasks/*
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
